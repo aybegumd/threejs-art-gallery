@@ -19,9 +19,9 @@ This project is an **Art Gallery Museum** application developed using `Three.js`
 - **↑ ↓**: Look Up / Down
 
 ---
-## **Proje Görselleri**
+## **Project Screenshots**
 
-### Gallery
+### Art Gallery
 ![Gallery](./screenshots/gallery-home.png)
 
   
