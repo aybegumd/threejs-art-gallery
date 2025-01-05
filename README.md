@@ -2,7 +2,7 @@
 
 ---
 
-## **Project Description**
+## **Description**
 This project is an **Art Gallery Museum** application developed using `Three.js`. The user can navigate through a virtual art gallery from a first-person perspective and interact with the sculptures, paintings and interactive artworks on display.
 
 ---
