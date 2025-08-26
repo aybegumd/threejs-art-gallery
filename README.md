@@ -2,6 +2,8 @@
 
 ---
 
+![Gallery](./screenshots/gallery-home.png)
+
 ## **Description**
 This project is an **Art Gallery Museum** application developed using Three.js. The user can navigate through a virtual art gallery from a first-person perspective and interact with the sculptures, paintings and interactive artworks on display.
 
@@ -19,9 +21,6 @@ This project is an **Art Gallery Museum** application developed using Three.js. 
 - **↑ ↓**: Look Up / Down
 
 ---
-## **Project Screenshots**
 
-### Art Gallery
-![Gallery](./screenshots/gallery-home.png)
 
   
